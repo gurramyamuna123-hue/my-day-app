@@ -1,0 +1,11 @@
+{
+  "name": "My Day – Personal Planner",
+  "short_name": "My Day",
+  "description": "Private personal to-do, task and habit tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f6fb",
+  "theme_color": "#6d5dfc"
+}
